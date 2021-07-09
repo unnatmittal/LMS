@@ -1,0 +1,30 @@
+body {
+  background-color: #a9d6e5;
+}
+
+.login__section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* padding: 200px; */
+}
+
+.login-img {
+  width: 450px;
+  /* height: 550px; */
+  height: 80vh;
+  border-radius: 5px;
+}
+
+.navbar-c {
+  background-color: #2a6f97;
+}
+
+.card-c {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-con {
+  margin: 20px 60px;
+}
